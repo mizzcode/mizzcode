@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mizzcode 
 - 👀 I’m interested in HTML, CSS, BOOTSTRAP, JAVASCRIPT, PHP
-- 🌱 I’m currently learning FrontEnd
+- 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email: misbahudin.id@gmail.com
 
