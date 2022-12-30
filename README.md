@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mizzc0d3@gmail.com**
 
-- ⚡ Fun fact **I think I introvert**
+- ⚡ Fun fact ** Me is introvert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
