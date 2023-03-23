@@ -1,7 +1,7 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://mizzcode.io)
 
 <h1 align="center">Hi 👋, I'm Misbahudin</h1>
-<h3 align="center">A passionate Web Developer from Indonesian</h3>
+<h3 align="center">A passionate Backend Developer from Indonesian</h3>
 <img align="right" alt="coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 
 
