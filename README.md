@@ -7,23 +7,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mizzcode&label=Profile%20views&color=0e75b6&style=flat" alt="mizzcode" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mizz_kun" target="blank"><img src="https://img.shields.io/twitter/follow/mizz_kun?logo=twitter&style=for-the-badge" alt="mizz_kun" /></a> </p>
+<p align="left"> <a href="https://twitter.com/misbahudin_99" target="blank"><img src="https://img.shields.io/twitter/follow/misbahudin?logo=twitter&style=for-the-badge" alt="Misbahudin" /></a> </p>
 
-- 🌱 I’m currently learning **course programming language PHP**
+- 🌱 I’m currently learning **MERN Stack & Laravel**
 
-- 👨‍💻 All of my projects are available at [https://misbah.dev](https://misbah.dev)
+- 👨‍💻 All of my projects are available at [https://misbah.devs.id](https://misbah.devs.id)
 
-- 💬 Ask me about **PHP**
+- 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **mizzc0d3@gmail.com**
+- 📫 How to reach me **misbahudin.id@gmail.com**
 
-- ⚡ Fun fact **Me is introvert**
+- ⚡ Fun fact: **I often dream in programming languages, and sometimes I wake up with brilliant solutions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mizz_kun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mizz_kun" height="30" width="40" /></a>
+<a href="https://twitter.com/misbahudin_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mizz_kun" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/misbahudin99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="misbahudin99" height="30" width="40" /></a>
-<a href="https://fb.com/misbahudin99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="misbahudin99" height="30" width="40" /></a>
+<a href="https://facebook.com/misbahudin99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="misbahudin99" height="30" width="40" /></a>
 <a href="https://instagram.com/mizzcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mizzcode" height="30" width="40" /></a>
 </p>
 
