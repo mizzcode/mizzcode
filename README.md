@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/misbahudin_99" target="blank"><img src="https://img.shields.io/twitter/follow/misbahudin?logo=twitter&style=for-the-badge" alt="Misbahudin" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack & Laravel**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://misbah.devs.id](https://misbah.devs.id)
 
