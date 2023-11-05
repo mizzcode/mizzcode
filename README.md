@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **misbahudin.id@gmail.com**
 
-- ⚡ Fun fact: **I believe that programming is a powerful tool that can be used to make the world a better place.**
+- ⚡ Fun fact: **I love solving problems with code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
