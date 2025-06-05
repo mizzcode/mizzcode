@@ -4,7 +4,8 @@
 
 <img align="right" alt="coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mizzcode&label=Profile%20views&color=0e75b6&style=flat" alt="mizzcode" /> </p>
+
+<p align="left"> <img src="https://count.getloli.com/@mizzcode?theme=booru-lewd" alt="Moe Counter for mizzcode" /> </p>
 
 <p align="left"> <a href="https://twitter.com/misbahudin_99" target="blank"><img src="https://img.shields.io/twitter/follow/misbahudin_99?logo=twitter&style=for-the-badge" alt="misbahudin_99" /></a> </p>
 
